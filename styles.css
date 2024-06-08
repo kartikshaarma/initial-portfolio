@@ -16,6 +16,7 @@ header h1 {
 
 header nav {
     margin-top: 10px;
+    background: linear-gradient(135deg, #000428, #004e92);
 }
 
 main {
@@ -46,7 +47,7 @@ h2 {
 }
 
 .skill {
-    background-color: #007BFF;
+    background-color: #004e92;
     color: white;
     padding: 10px 20px;
     margin-right: 10px;
